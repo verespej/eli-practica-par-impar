@@ -1,2 +1,2 @@
 # eli-practica-par-impar
-Practica con par y impar
+Practica con par e impar
